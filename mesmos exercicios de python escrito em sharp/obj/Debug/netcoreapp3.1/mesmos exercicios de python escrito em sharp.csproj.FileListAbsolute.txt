@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\bin\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.exe
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\bin\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.deps.json
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\bin\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.runtimeconfig.json
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\bin\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.runtimeconfig.dev.json
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\bin\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.dll
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\bin\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.pdb
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\obj\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\obj\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\obj\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.AssemblyInfo.cs
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\obj\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\obj\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.dll
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\obj\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.pdb
+C:\Users\victo\source\repos\mesmos exercicios de python escrito em sharp\obj\Debug\netcoreapp3.1\mesmos exercicios de python escrito em sharp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\bin\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.exe
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\bin\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.deps.json
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\bin\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.runtimeconfig.json
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\bin\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.runtimeconfig.dev.json
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\bin\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.dll
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\bin\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.pdb
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\obj\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\obj\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\obj\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.AssemblyInfo.cs
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\obj\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\obj\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.dll
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\obj\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.pdb
+C:\Users\victo\source\repos\De acordo com o numero mostra o dia da semana que esta\obj\Debug\netcoreapp3.1\De acordo com o numero mostra o dia da semana que esta.genruntimeconfig.cache

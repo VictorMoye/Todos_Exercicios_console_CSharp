@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\Projeto 2\obj\Debug\netcoreapp3.0\Projeto 2.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Projeto 2\obj\Debug\netcoreapp3.0\Projeto 2.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Projeto 2\obj\Debug\netcoreapp3.0\Projeto 2.AssemblyInfo.cs
+C:\Users\victo\source\repos\Projeto 2\bin\Debug\netcoreapp3.0\Projeto 2.exe
+C:\Users\victo\source\repos\Projeto 2\bin\Debug\netcoreapp3.0\Projeto 2.deps.json
+C:\Users\victo\source\repos\Projeto 2\bin\Debug\netcoreapp3.0\Projeto 2.runtimeconfig.json
+C:\Users\victo\source\repos\Projeto 2\bin\Debug\netcoreapp3.0\Projeto 2.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Projeto 2\bin\Debug\netcoreapp3.0\Projeto 2.dll
+C:\Users\victo\source\repos\Projeto 2\bin\Debug\netcoreapp3.0\Projeto 2.pdb
+C:\Users\victo\source\repos\Projeto 2\obj\Debug\netcoreapp3.0\Projeto 2.dll
+C:\Users\victo\source\repos\Projeto 2\obj\Debug\netcoreapp3.0\Projeto 2.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio_40_apostila/1.0.0": {
+        "runtime": {
+          "Exercicio_40_apostila.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_40_apostila/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

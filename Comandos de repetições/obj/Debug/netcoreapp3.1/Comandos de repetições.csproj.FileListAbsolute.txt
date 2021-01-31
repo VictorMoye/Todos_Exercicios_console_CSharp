@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\Comandos de repetições\bin\Debug\netcoreapp3.1\Comandos de repetições.exe
+C:\Users\victo\source\repos\Comandos de repetições\bin\Debug\netcoreapp3.1\Comandos de repetições.deps.json
+C:\Users\victo\source\repos\Comandos de repetições\bin\Debug\netcoreapp3.1\Comandos de repetições.runtimeconfig.json
+C:\Users\victo\source\repos\Comandos de repetições\bin\Debug\netcoreapp3.1\Comandos de repetições.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Comandos de repetições\bin\Debug\netcoreapp3.1\Comandos de repetições.dll
+C:\Users\victo\source\repos\Comandos de repetições\bin\Debug\netcoreapp3.1\Comandos de repetições.pdb
+C:\Users\victo\source\repos\Comandos de repetições\obj\Debug\netcoreapp3.1\Comandos de repetições.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Comandos de repetições\obj\Debug\netcoreapp3.1\Comandos de repetições.AssemblyInfo.cs
+C:\Users\victo\source\repos\Comandos de repetições\obj\Debug\netcoreapp3.1\Comandos de repetições.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Comandos de repetições\obj\Debug\netcoreapp3.1\Comandos de repetições.dll
+C:\Users\victo\source\repos\Comandos de repetições\obj\Debug\netcoreapp3.1\Comandos de repetições.pdb
+C:\Users\victo\source\repos\Comandos de repetições\obj\Debug\netcoreapp3.1\Comandos de repetições.genruntimeconfig.cache
+C:\Users\victo\source\repos\Comandos de repetições\obj\Debug\netcoreapp3.1\Comandos de repetições.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oc6A8xFEWu26ulV4LVHnfN0EU9VEJ0rno8Vh0jawKRXGVNrL6fSVV6HlKcqPUNbKGYukMBKplfR2V1Hk2EJvUQ==",
+  "success": true,
+  "projectFilePath": "C:\\P\\CSharp\\course\\course\\course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

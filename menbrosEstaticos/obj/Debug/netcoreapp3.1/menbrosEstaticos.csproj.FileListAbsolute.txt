@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\menbrosEstaticos\bin\Debug\netcoreapp3.1\menbrosEstaticos.exe
+C:\Users\victo\source\repos\menbrosEstaticos\bin\Debug\netcoreapp3.1\menbrosEstaticos.deps.json
+C:\Users\victo\source\repos\menbrosEstaticos\bin\Debug\netcoreapp3.1\menbrosEstaticos.runtimeconfig.json
+C:\Users\victo\source\repos\menbrosEstaticos\bin\Debug\netcoreapp3.1\menbrosEstaticos.runtimeconfig.dev.json
+C:\Users\victo\source\repos\menbrosEstaticos\bin\Debug\netcoreapp3.1\menbrosEstaticos.dll
+C:\Users\victo\source\repos\menbrosEstaticos\bin\Debug\netcoreapp3.1\menbrosEstaticos.pdb
+C:\Users\victo\source\repos\menbrosEstaticos\obj\Debug\netcoreapp3.1\menbrosEstaticos.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\menbrosEstaticos\obj\Debug\netcoreapp3.1\menbrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\menbrosEstaticos\obj\Debug\netcoreapp3.1\menbrosEstaticos.AssemblyInfo.cs
+C:\Users\victo\source\repos\menbrosEstaticos\obj\Debug\netcoreapp3.1\menbrosEstaticos.dll
+C:\Users\victo\source\repos\menbrosEstaticos\obj\Debug\netcoreapp3.1\menbrosEstaticos.pdb
