@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\ProjetoRetangulo\bin\Debug\netcoreapp3.1\ProjetoRetangulo.exe
+C:\Users\victo\source\repos\ProjetoRetangulo\bin\Debug\netcoreapp3.1\ProjetoRetangulo.deps.json
+C:\Users\victo\source\repos\ProjetoRetangulo\bin\Debug\netcoreapp3.1\ProjetoRetangulo.runtimeconfig.json
+C:\Users\victo\source\repos\ProjetoRetangulo\bin\Debug\netcoreapp3.1\ProjetoRetangulo.runtimeconfig.dev.json
+C:\Users\victo\source\repos\ProjetoRetangulo\bin\Debug\netcoreapp3.1\ProjetoRetangulo.dll
+C:\Users\victo\source\repos\ProjetoRetangulo\bin\Debug\netcoreapp3.1\ProjetoRetangulo.pdb
+C:\Users\victo\source\repos\ProjetoRetangulo\obj\Debug\netcoreapp3.1\ProjetoRetangulo.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\ProjetoRetangulo\obj\Debug\netcoreapp3.1\ProjetoRetangulo.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ProjetoRetangulo\obj\Debug\netcoreapp3.1\ProjetoRetangulo.AssemblyInfo.cs
+C:\Users\victo\source\repos\ProjetoRetangulo\obj\Debug\netcoreapp3.1\ProjetoRetangulo.dll
+C:\Users\victo\source\repos\ProjetoRetangulo\obj\Debug\netcoreapp3.1\ProjetoRetangulo.pdb
